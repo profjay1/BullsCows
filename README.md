@@ -1,0 +1,1 @@
+This program is designed to generate a secret code and ask for the player to guess the secret code. A matched guess is bull a correct guess but wrong index is cow. Once all the guessed characters match exactly all the index, the player wins.
